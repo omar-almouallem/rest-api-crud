@@ -16,20 +16,20 @@
 Users:<br />
 create user : localhost:3000/users<br />
 (Content-Type: application/json)<br />
-{
-  "firstName": ,
-  "lastName":  ,
-  "age":
+{<br />
+  "firstName": ,<br />
+  "lastName":  ,<br />
+  "age":<br />
 }<br />
 get user : localhost:3000/users/(userID)<br />
 
 update user : localhost:3000/user/(userID)<br />
 (Content-Type: application/json)<br />
-{ 
-  "firstName": ,
-  "lastName":  ,
-  "age":
+{ <br />
+  "firstName": ,<br />
+  "lastName":  ,<br />
+  "age":<br />
 }<br />
 
-delete user : localhost:3000/user/(userID)<br />
+delete user : localhost:3000/user/(userID)
 
