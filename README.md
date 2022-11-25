@@ -8,7 +8,7 @@
 2- `npm run build`
 3- `npm run start`
 ## To test your server locally:
-1- `npm install`
+1- `npm install`<br />
 2- `npm run dev`
 
 # Hot to use
