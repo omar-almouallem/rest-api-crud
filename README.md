@@ -4,8 +4,8 @@
 
 # How to run
 ## To build your server:
-1- `npm install`
-2- `npm run build`
+1- `npm install`<br />
+2- `npm run build`<br />
 3- `npm run start`
 ## To test your server locally:
 1- `npm install`<br />
@@ -13,23 +13,23 @@
 
 # Hot to use
 
-Users:
-create user : localhost:3000/users
-(Content-Type: application/json)
+Users:<br />
+create user : localhost:3000/users<br />
+(Content-Type: application/json)<br />
 {
   "firstName": ,
   "lastName":  ,
   "age":
-}
-get user : localhost:3000/users/(userID)
+}<br />
+get user : localhost:3000/users/(userID)<br />
 
-update user : localhost:3000/user/(userID)
-(Content-Type: application/json)
+update user : localhost:3000/user/(userID)<br />
+(Content-Type: application/json)<br />
 { 
   "firstName": ,
   "lastName":  ,
   "age":
-}
+}<br />
 
-delete user : localhost:3000/user/(userID)
+delete user : localhost:3000/user/(userID)<br />
 
