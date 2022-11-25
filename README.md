@@ -1,15 +1,15 @@
 # CRUD Rest API 
- About:A Node.js REST API built with Express and Typescript
+ About: 
+ A Node.js REST API built with Express and Typescript
 
 # How to run
-
-## Script:
-To test your server locally:
-`npm run dev`
-To build your server:
-`npm run build`
-To start your server:
-`npm run start`
+## To build your server:
+1- `npm install`
+2- `npm run build`
+3- `npm run start`
+## To test your server locally:
+1- `npm install`
+2- `npm run dev`
 
 # Hot to use
 
